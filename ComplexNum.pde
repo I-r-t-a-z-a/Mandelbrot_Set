@@ -28,25 +28,3 @@ class ComplexNum{
   }
   
 }
-
-
-/* 
-//"octopus"
-<?xml version='1.0'?>
-<mandelbrot_settings_2>
-<image_size width='800' height='600'/>
-<limits>
-   <xmin>-0.745058112200840049976</xmin>
-   <xmax>-0.745055360505048823282</xmax>
-   <ymin>-0.135220953495255273508</ymin>
-   <ymax>-0.135218884130534229043</ymax>
-</limits>
-<palette colorType='HSB'>
-   <divisionPoint position='0' color='0;1;1'/>
-   <divisionPoint position='1' color='1;1;1'/>
-</palette>
-<palette_mapping length='250' offset='0'/>
-<max_iterations value='1000'/>
-</mandelbrot_settings_2>
-
-*/
